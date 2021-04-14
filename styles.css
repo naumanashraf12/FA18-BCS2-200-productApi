@@ -1,0 +1,16 @@
+h1{
+    padding: .3em;
+    margin: .3em;
+}
+#products{
+    padding-top: 5em;
+}
+#products div{
+    border: solid;
+    border-radius: 1em;
+    padding: 2em;
+    margin: 1em;
+}
+.btn{
+    margin: 1em;
+}
